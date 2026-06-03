@@ -1,0 +1,9 @@
+*.asv
+*.fig
+*.mat
+*.png
+*.jpg
+*.jpeg
+.claude/
+debug_*.m
+test_*.m
